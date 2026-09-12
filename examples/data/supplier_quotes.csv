@@ -1,0 +1,2 @@
+quote_id,quote_date,supplier_name,supplier_type,country,product_family,exact_specification,certifications,unit_price,currency,price_basis,moq,production_capacity,lead_time_days,incoterm,export_packaging,payment_terms,sample_status,inspection_plan,warranty,quote_status,analyst_notes
+SYN-Q01,2026-01-12,Example Manufacturing Co.,synthetic manufacturer,Canada,Institutional safety labels,laminated facility label kit,not verified,18.50,CAD,per kit,100,unknown,21,FCA,carton,50 percent deposit,not ordered,pre-shipment sample review,one year,synthetic,Not a real quotation

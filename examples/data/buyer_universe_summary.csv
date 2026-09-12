@@ -1,0 +1,2 @@
+reference_period,geography,naics_code,buyer_industry,establishments_total_with_employees,establishments_20_plus_employees,establishments_50_plus_employees,establishments_100_plus_employees,establishments_200_plus_employees,establishments_500_plus_employees,source_table,source_url,interpretation_warning
+2025,Example Region,000000,Synthetic institutional buyers,120,80,45,20,8,2,Synthetic example,https://example.com/synthetic-data,Not real organizations or spend

@@ -1,0 +1,40 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+
+# Model and agent runtime state
+.checkpoints/
+.crewai_storage/
+.model_counsel/
+*.db
+*.sqlite*
+
+# Generated or private research material
+outputs/
+outputs*/
+Output*/
+logs/
+run_audit.json
+incomplete_run.json
+last_error.txt
+research_inputs/raw/
+research_inputs/processed/
+master_context.md
+Users/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

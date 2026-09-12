@@ -1,0 +1,3 @@
+product_family,event_count,validation_event_count,reference_event_count,scale_event_count,complete_ladder_signal,distinct_buyers,distinct_winners,total_value_cad,median_value_cad,max_value_cad,keyword_priority
+Reusable transit containers,6,2,3,1,1,4,3,910000,125000,310000,1
+Institutional safety labels,8,4,3,1,1,5,4,720000,65000,260000,1

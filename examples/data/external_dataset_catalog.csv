@@ -1,0 +1,2 @@
+dataset_id,jurisdiction,publisher,dataset_name,evidence_role,coverage_or_granularity,access_method,official_url,local_status,important_limitations,recommended_research_phase,last_verified_date
+SYN-D01,Canada,Synthetic Publisher,Synthetic Procurement Events,purchasing-event discovery,fictional rows,CSV,https://example.com/synthetic-data,example only,Not real evidence,demonstration,2026-01-01
